@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate student developer from Spain(Zaragoza)</h3>
 
-- 🔭 I’m currently studing DAM [Salesianos](https://zaragoza.salesianos.edu/)
+- 🔭 I’m currently studing DAM in [Salesianos](https://zaragoza.salesianos.edu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
