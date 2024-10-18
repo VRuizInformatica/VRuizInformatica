@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 About Me:
+#About Me:
 -Hi 👋, I'm Victor<br>-A passionate student developer from Spain(Zaragoza)<br>-I’m currently studing DAM in Salesianos
 
 ## 🌐 Socials:
