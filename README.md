@@ -16,7 +16,6 @@
 
 ### ✍️ Random Dev Quote
 
-</div>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
@@ -24,5 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaayapordios&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
