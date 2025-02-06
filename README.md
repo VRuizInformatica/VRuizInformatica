@@ -41,9 +41,6 @@
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**JavaServer Faces**: `-` (sin logo oficial)  
-**Virtual Machines**: `-` (no hay shield genérico, se podría usar [VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white) o VMware)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VRuizInformatica&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VRuizInformatica&theme=tokyonight&hide_border=false)<br/>
